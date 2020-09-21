@@ -9,7 +9,10 @@ Hi..
 How is everything going?
 Are you busy?
 </pre>
-Chat isn't in-person or phone communication. By directing you to this page, you're being advised that getting directly to the point, for work related questions, is okay. No offense will be taken because you bypassed social etiquette on greeting.
+Chat isn't in-person or phone communication. By directing you to this page, you're being advised that getting directly to the point, for work related questions, is okay. No offense will be taken because you bypassed social etiquette on greeting. The following will work just as well with me:
+<pre>
+Hi -- I'm working on [something] and I'm trying to do [etc...]
+</pre>
 
 Just be sensible about things and don't use this as an excuse to be unprofessional.
 
